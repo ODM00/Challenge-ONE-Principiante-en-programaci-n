@@ -1,0 +1,141 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: whitesmoke;
+    
+  }
+
+  body {
+    margin: auto;
+    width: 1000px;
+    height: 700px;
+    padding: 10px;
+    
+    background-image: url("Imagenes/fondo.jpg");
+    background-size:  100px;
+    background-size:  100%;
+    
+   
+  }
+  .container{
+    margin: auto;
+    width: 1000px;
+    height: 700px;
+    padding: 0px;
+   
+    background-color: rgba(255,255,255,0.5); 
+  }
+  
+  .text-input{
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    color:black;
+    width: 80%;
+    height: 60%;
+    
+    background-color: rgba(255,255,255,0.5); 
+    outline: none;
+    border: none;
+    font-size: 20px;
+  }
+  
+  .left{
+    float: left;
+    width: 70%;
+    height: 50%;
+    border-radius: 24px;
+  }
+  
+  .left-button{
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+  }
+  
+  #btn-encriptar{
+    padding: 24px;
+    width: 30%;
+    height: 0%;
+    
+    background-color: rgba(255,255,255,0.5); 
+    border-radius: 24px;
+    margin-left: 15%;
+  }
+  #btn-desencriptar{
+    padding: 24px;
+    width: 30%;
+    height: 0%;
+    
+    background-color: rgba(255,255,255,0.5); 
+    border-radius: 24px;
+    margin-left: 10%;
+  }
+  p{
+    margin-left: 5%;
+  }
+  .right{
+    float: right;
+    text-align: center;
+    border-radius: 24px;
+    width: 30%;
+    height: 88.5%;
+    
+    background-color: rgba(255,255,255,0.5); 
+    
+    
+  }
+  
+  #imgDer{
+    margin-top: 20%;
+    width: 90%;
+    height: auto;
+    left: 1032px;
+    top: 283px;
+  }
+  
+  
+  #texto1{
+    float: left;
+    margin-left: 10%;
+    margin-top: 5%;
+    color:black;
+    width: 80%;
+    height: 20%;
+    
+    background-color: rgba(195, 195, 195, 0.614); 
+    outline: none;
+    border: none;
+    font-size: 15px;
+  }
+  #copiar{
+    margin-left: 33%;
+    margin-top: 90%;
+    display: none;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+  
+    background-color: rgba(255,255,255,0.5); 
+    border-radius: 24px;
+  }
+  .logo{
+    width: 100%;
+    float: left;
+  }
+  .logoImg{
+    margin-top: 1%;
+    float: inherit;
+    margin-left: 5%;
+  }
+  .tittle{
+    float: inherit;
+    margin-left: 15%;
+  }
+  
+ 
+  
+  
+  
+  
